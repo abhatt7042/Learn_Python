@@ -3,6 +3,9 @@ b=int(input("Enter second number"))
 c=input("Welcome to the calculator \n Please select operation - A for Addition, \nS for Subtraction,\nM for Multiplication, \nD for Division, \nFD for Floor Division, \nMD for Modulus\n")
 print(f"You have selected - {a},{b},{c}") 
 
+'''Here is a multiline comment, if-else logic for calculator'''
+#Here is a single line comment
+
 if c.upper()=="A":
     print(f"Answer is : {a+b}")
 elif c.upper()=="S":
@@ -18,3 +21,4 @@ elif c.upper()=="MD":
 
 else:
     print("You did not select the right action, signing off bbye")
+    
