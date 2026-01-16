@@ -1,5 +1,8 @@
-# 👋 Hello! Welcome to My Python Learning Repo
-This is my personal space to share my **Python journey**. Whether you’re here to explore my projects, learn with me, or just browse ideas, you’re in the right place!  
+# 👋 Welcome to Learn_Python
+
+Hi, I’m **Ankita**!
+
+This is the space to share my **Python journey**. Whether you’re here to explore my projects, learn with me, or just browse ideas, you’re in the right place!  
 
 This folder captures my **hands-on Python journey** - from basics to small projects, scripts, and experiments.  
 I’m learning by **building, iterating, and documenting key takeaways** as I explore Python for **automation, and problem-solving**.
