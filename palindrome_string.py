@@ -1,3 +1,4 @@
+# Check if a string is a palindrome
 s="maddiam"
 len=len(s)
 palindrome=True
